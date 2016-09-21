@@ -17,6 +17,6 @@ http://coderoad.tumblr.com/post/108149183403/everything-you-need-to-know-about-h
 
 !!
 -------------------------------------
-받은후에 bundle install과 rake db:migrate는 필수입니다.
+받은 후에 bundle install과 rake db:migrate는 필수입니다.
 
 동국대 멋쟁이사자처럼 4기 화이팅!!
