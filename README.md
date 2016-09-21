@@ -9,11 +9,18 @@
 
 Welcome to your Rails project on Cloud9 IDE!
 
-To get started, just do the following:
+참고한 사이트는
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://summer-jomno.c9users.io/).
+서머노트 레일즈 깃헙
+https://github.com/summernote/summernote-rails
+summernote-ko-KR.js파일 다운링크
+https://ci.open-paas.org/stash/projects/OR/repos/material-admin/browse/vendors/bower_components/summernote/lang/summernote-ko-KR.js?at=master
+스카폴드 기법!
+https://rorlab.gitbooks.io/railsguidebook/content/
+html_safe
+http://coderoad.tumblr.com/post/108149183403/everything-you-need-to-know-about-htmlsafe
 
+<<<<<<<<< saved version
 Happy coding!
 The Cloud9 IDE team
 
@@ -23,3 +30,12 @@ The Cloud9 IDE team
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
 To watch some training videos, visit http://www.youtube.com/user/c9ide
 # summernote_ror_exam
+=========
+https://ci.open-paas.org/stash/projects/OR/repos/material-admin/browse/vendors/bower_components/summernote/lang/summernote-ko-KR.js?at=master
+스카폴드 기법!
+https://rorlab.gitbooks.io/railsguidebook/content/
+html_safe
+http://coderoad.tumblr.com/post/108149183403/everything-you-need-to-know-about-htmlsafe
+
+동국대 멋쟁이사자처럼 4기 화이팅!!
+>>>>>>>>> local version
