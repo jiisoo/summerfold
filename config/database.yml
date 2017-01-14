@@ -50,5 +50,5 @@ test:
 production:
   <<: *default
   database: summerfold_production
-  username: summerfold
+  username: root
   password: <%= ENV['SUMMERFOLD_DATABASE_PASSWORD'] %>
